@@ -1,0 +1,8 @@
+com\example\redis\util\JedisUtil.class
+com\example\redis\config\JedisConfig.class
+com\example\redis\util\common\SerializableUtil.class
+com\example\redis\bean\User.class
+com\example\redis\util\common\Constant.class
+com\example\redis\controller\RedisTestController.class
+com\example\redis\RedisApplication.class
+com\example\redis\util\StringUtil.class
